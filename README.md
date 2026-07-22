@@ -131,7 +131,7 @@ Government-Beneficiary-Claims-Analysis/
 
 ## Dashboard Preview
 
-![Dashboard](Images/dashboard_preview.png)
+![Dashboard](benificiary dashboard.png)
 
 ---
 
